@@ -8,11 +8,11 @@ O Dremio é uma plataforma aberta de data lakehouse que permite consultar e anal
 
 ## Principais características
 
-• Virtualização de Dados: Permite criar visões virtuais unificadas sobre múltiplas fontes de armazenamento.
-• Tecnologia Apache Arrow: Usa processamento colunar em memória para garantir alto desempenho e consultas SQL de baixa latência.
-• Integração com BI: Conecta-se de forma nativa a ferramentas de visualização como Power BI e Tableau.
-• Data Reflections: Funcionalidade que acelera as consultas por meio de materialização física inteligente dos dados.
-• Arquitetura Aberta: Baseado em padrões como Apache Iceberg, Apache Parquet e Apache Calcite
+- Virtualização de Dados: Permite criar visões virtuais unificadas sobre múltiplas fontes de armazenamento.
+- Tecnologia Apache Arrow: Usa processamento colunar em memória para garantir alto desempenho e consultas SQL de baixa latência.
+- Integração com BI: Conecta-se de forma nativa a ferramentas de visualização como Power BI e Tableau.
+- Data Reflections: Funcionalidade que acelera as consultas por meio de materialização física inteligente dos dados.
+- Arquitetura Aberta: Baseado em padrões como Apache Iceberg, Apache Parquet e Apache Calcite
 
 ## Arquitetura
 ![image](assets/architecture.png)
@@ -26,9 +26,6 @@ O Dremio é uma plataforma aberta de data lakehouse que permite consultar e anal
 * Docker
 * Python 
 * Power BI Desktop
-
-## Como instalar o Docker?
-https://www.youtube.com/watch?v=pRFzDVn40rw&list=PLbPvnlmz6e_L_3Zw_fGtMcMY0eAOZnN-H
 
 ## Como utilizar o projeto?
 clone o repositório com o comando:
